@@ -15,6 +15,11 @@
 
 - 📫 How to reach me: **liumengxinfly@gmail.com**
 
+  ### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/liumengxinfly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liumengxinfly" height="30" width="40" /></a>
