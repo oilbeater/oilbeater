@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **liumengxinfly@gmail.com**
 
-  ### :zap: Recent Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4053](https://github.com/kubeovn/kube-ovn/issues/4053#issuecomment-2132691848) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
@@ -33,8 +33,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oilbeater&show_icons=true&locale=en&layout=compact" alt="oilbeater" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oilbeater&show_icons=true&locale=en" alt="oilbeater" /></p>
 
