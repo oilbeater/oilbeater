@@ -18,11 +18,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4053](https://github.com/kubeovn/kube-ovn/issues/4053#issuecomment-2132691848) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2. 🗣 Commented on [#4001](https://github.com/kubeovn/kube-ovn/issues/4001#issuecomment-2132673738) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. 🗣 Commented on [#4078](https://github.com/kubeovn/kube-ovn/issues/4078#issuecomment-2132663997) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-4. 🗣 Commented on [#1033](https://github.com/containernetworking/plugins/issues/1033#issuecomment-2128351236) in [containernetworking/plugins](https://github.com/containernetworking/plugins)
-5. 🔒 Closed issue [#1033](https://github.com/containernetworking/plugins/issues/1033) in [containernetworking/plugins](https://github.com/containernetworking/plugins)
+1. 🗣 Commented on [#4001](https://github.com/kubeovn/kube-ovn/issues/4001#issuecomment-2134410566) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+2. 🗣 Commented on [#4053](https://github.com/kubeovn/kube-ovn/issues/4053#issuecomment-2132691848) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+3. 🗣 Commented on [#4001](https://github.com/kubeovn/kube-ovn/issues/4001#issuecomment-2132673738) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+4. 🗣 Commented on [#4078](https://github.com/kubeovn/kube-ovn/issues/4078#issuecomment-2132663997) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+5. 🗣 Commented on [#1033](https://github.com/containernetworking/plugins/issues/1033#issuecomment-2128351236) in [containernetworking/plugins](https://github.com/containernetworking/plugins)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
