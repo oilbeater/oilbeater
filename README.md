@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI and Perfromance**
 
-- 👯 I’m building [Kube-OVN](https://github.com/kubeovn/kube-ovn)
+- 👯 I’m building [Kube-OVN](https://github.com/kubeovn/kube-ovn) and [Malacca](https://github.com/oilbeater/malacca)
 
 - 📝 I regularly write articles on [https://oilbeater.com](https://oilbeater.com)
 
