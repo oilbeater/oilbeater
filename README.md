@@ -18,11 +18,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4574](https://github.com/kubeovn/kube-ovn/pull/4574) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2. 🎉 Merged PR [#4585](https://github.com/kubeovn/kube-ovn/pull/4585) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. 🎉 Merged PR [#4559](https://github.com/kubeovn/kube-ovn/pull/4559) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-4. 🎉 Merged PR [#4586](https://github.com/kubeovn/kube-ovn/pull/4586) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-5. 🚀 Published release [v0.1.0](https://github.com/oilbeater/malacca/releases/tag/v0.1.0) in [oilbeater/malacca](https://github.com/oilbeater/malacca)
+1. 🎉 Merged PR [#214](https://github.com/kubeovn/docs/pull/214) in [kubeovn/docs](https://github.com/kubeovn/docs)
+2. 🎉 Merged PR [#4574](https://github.com/kubeovn/kube-ovn/pull/4574) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+3. 🎉 Merged PR [#4585](https://github.com/kubeovn/kube-ovn/pull/4585) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+4. 🎉 Merged PR [#4559](https://github.com/kubeovn/kube-ovn/pull/4559) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+5. 🎉 Merged PR [#4586](https://github.com/kubeovn/kube-ovn/pull/4586) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
