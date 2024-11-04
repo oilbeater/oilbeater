@@ -18,11 +18,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/oilbeater/malacca/pull/1#issuecomment-2451244534) in [oilbeater/malacca](https://github.com/oilbeater/malacca)
-2. 🎉 Merged PR [#1](https://github.com/oilbeater/malacca/pull/1) in [oilbeater/malacca](https://github.com/oilbeater/malacca)
-3. 🎉 Merged PR [#219](https://github.com/kubeovn/docs/pull/219) in [kubeovn/docs](https://github.com/kubeovn/docs)
-4. ❗ Opened issue [#38](https://github.com/oilbeater/oilbeater.github.com/issues/38) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
-5. 🗣 Commented on [#1](https://github.com/oilbeater/oilbeater/issues/1#issuecomment-2435335682) in [oilbeater/oilbeater](https://github.com/oilbeater/oilbeater)
+1. 🔒 Closed issue [#4652](https://github.com/kubeovn/kube-ovn/issues/4652) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+2. 🎉 Merged PR [#220](https://github.com/kubeovn/docs/pull/220) in [kubeovn/docs](https://github.com/kubeovn/docs)
+3. ❌ Reopened PR [#220](https://github.com/kubeovn/docs/pull/220) in [kubeovn/docs](https://github.com/kubeovn/docs)
+4. ❌ Closed PR [#220](https://github.com/kubeovn/docs/pull/220) in [kubeovn/docs](https://github.com/kubeovn/docs)
+5. 🗣 Commented on [#1](https://github.com/oilbeater/malacca/pull/1#issuecomment-2451244534) in [oilbeater/malacca](https://github.com/oilbeater/malacca)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
