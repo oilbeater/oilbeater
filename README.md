@@ -18,11 +18,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#566](https://github.com/cilium/cilium.io/pull/566#issuecomment-2475723665) in [cilium/cilium.io](https://github.com/cilium/cilium.io)
-2. 🗣 Commented on [#4714](https://github.com/kubeovn/kube-ovn/pull/4714#issuecomment-2475633018) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. ❌ Closed PR [#4714](https://github.com/kubeovn/kube-ovn/pull/4714) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-4. 🗣 Commented on [#4699](https://github.com/kubeovn/kube-ovn/issues/4699#issuecomment-2475481504) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-5. 🔒 Closed issue [#4699](https://github.com/kubeovn/kube-ovn/issues/4699) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+1. 🔒 Closed issue [#4705](https://github.com/kubeovn/kube-ovn/issues/4705) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+2. 🎉 Merged PR [#4736](https://github.com/kubeovn/kube-ovn/pull/4736) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+3. 🗣 Commented on [#566](https://github.com/cilium/cilium.io/pull/566#issuecomment-2475723665) in [cilium/cilium.io](https://github.com/cilium/cilium.io)
+4. 🗣 Commented on [#4714](https://github.com/kubeovn/kube-ovn/pull/4714#issuecomment-2475633018) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+5. ❌ Closed PR [#4714](https://github.com/kubeovn/kube-ovn/pull/4714) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
