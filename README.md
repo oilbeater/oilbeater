@@ -18,11 +18,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#233](https://github.com/kubeovn/docs/pull/233) in [kubeovn/docs](https://github.com/kubeovn/docs)
-2. 🗣 Commented on [#4887](https://github.com/kubeovn/kube-ovn/issues/4887#issuecomment-2565152120) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. 🗣 Commented on [#4884](https://github.com/kubeovn/kube-ovn/pull/4884#issuecomment-2565085085) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-4. 🎉 Merged PR [#232](https://github.com/kubeovn/docs/pull/232) in [kubeovn/docs](https://github.com/kubeovn/docs)
-5. 🗣 Commented on [#4881](https://github.com/kubeovn/kube-ovn/issues/4881#issuecomment-2564956004) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+1. 💪 Opened PR [#4191](https://github.com/cncf/landscape/pull/4191) in [cncf/landscape](https://github.com/cncf/landscape)
+2. 🎉 Merged PR [#233](https://github.com/kubeovn/docs/pull/233) in [kubeovn/docs](https://github.com/kubeovn/docs)
+3. 🗣 Commented on [#4887](https://github.com/kubeovn/kube-ovn/issues/4887#issuecomment-2565152120) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+4. 🗣 Commented on [#4884](https://github.com/kubeovn/kube-ovn/pull/4884#issuecomment-2565085085) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+5. 🎉 Merged PR [#232](https://github.com/kubeovn/docs/pull/232) in [kubeovn/docs](https://github.com/kubeovn/docs)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
