@@ -18,11 +18,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#234](https://github.com/kubeovn/docs/pull/234#issuecomment-2603492236) in [kubeovn/docs](https://github.com/kubeovn/docs)
-2. 🗣 Commented on [#4933](https://github.com/kubeovn/kube-ovn/pull/4933#issuecomment-2601683765) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. 🗣 Commented on [#7327](https://github.com/harvester/harvester/issues/7327#issuecomment-2600804010) in [harvester/harvester](https://github.com/harvester/harvester)
-4. 🗣 Commented on [#4895](https://github.com/kubeovn/kube-ovn/pull/4895#issuecomment-2592212121) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-5. 🔒 Closed issue [#4849](https://github.com/kubeovn/kube-ovn/issues/4849) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+1. 🎉 Merged PR [#234](https://github.com/kubeovn/docs/pull/234) in [kubeovn/docs](https://github.com/kubeovn/docs)
+2. 🗣 Commented on [#234](https://github.com/kubeovn/docs/pull/234#issuecomment-2603496888) in [kubeovn/docs](https://github.com/kubeovn/docs)
+3. 🗣 Commented on [#234](https://github.com/kubeovn/docs/pull/234#issuecomment-2603492236) in [kubeovn/docs](https://github.com/kubeovn/docs)
+4. 🗣 Commented on [#4933](https://github.com/kubeovn/kube-ovn/pull/4933#issuecomment-2601683765) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+5. 🗣 Commented on [#7327](https://github.com/harvester/harvester/issues/7327#issuecomment-2600804010) in [harvester/harvester](https://github.com/harvester/harvester)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
