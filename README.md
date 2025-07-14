@@ -18,11 +18,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5465](https://github.com/kubeovn/kube-ovn/pull/5465) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2. 🗣 Commented on [#5465](https://github.com/kubeovn/kube-ovn/pull/5465#issuecomment-3060152786) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. 🗣 Commented on [#3608](https://github.com/google-gemini/gemini-cli/issues/3608#issuecomment-3051267094) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-4. 🎉 Merged PR [#5439](https://github.com/kubeovn/kube-ovn/pull/5439) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-5. 🎉 Merged PR [#295](https://github.com/kubeovn/docs/pull/295) in [kubeovn/docs](https://github.com/kubeovn/docs)
+1. ❗ Opened issue [#5479](https://github.com/kubeovn/kube-ovn/issues/5479) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+2. ❌ Closed PR [#5465](https://github.com/kubeovn/kube-ovn/pull/5465) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+3. 🗣 Commented on [#5465](https://github.com/kubeovn/kube-ovn/pull/5465#issuecomment-3060152786) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+4. 🗣 Commented on [#3608](https://github.com/google-gemini/gemini-cli/issues/3608#issuecomment-3051267094) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+5. 🎉 Merged PR [#5439](https://github.com/kubeovn/kube-ovn/pull/5439) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
