@@ -18,11 +18,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5486](https://github.com/kubeovn/kube-ovn/pull/5486) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2. 💪 Opened PR [#5486](https://github.com/kubeovn/kube-ovn/pull/5486) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. 💪 Opened PR [#5484](https://github.com/kubeovn/kube-ovn/pull/5484) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-4. 🎉 Merged PR [#296](https://github.com/kubeovn/docs/pull/296) in [kubeovn/docs](https://github.com/kubeovn/docs)
-5. 💪 Opened PR [#296](https://github.com/kubeovn/docs/pull/296) in [kubeovn/docs](https://github.com/kubeovn/docs)
+1. 🗣 Commented on [#5481](https://github.com/kubeovn/kube-ovn/issues/5481#issuecomment-3077116374) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+2. 🎉 Merged PR [#5486](https://github.com/kubeovn/kube-ovn/pull/5486) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+3. 💪 Opened PR [#5486](https://github.com/kubeovn/kube-ovn/pull/5486) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+4. 💪 Opened PR [#5484](https://github.com/kubeovn/kube-ovn/pull/5484) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+5. 🎉 Merged PR [#296](https://github.com/kubeovn/docs/pull/296) in [kubeovn/docs](https://github.com/kubeovn/docs)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
