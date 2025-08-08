@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oilbeater&show_icons=true&locale=en" alt="oilbeater" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=oilbeater&" alt="oilbeater" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oilbeater)](https://git.io/streak-stats)
