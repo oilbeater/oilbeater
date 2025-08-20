@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working at **Alauda in Beijing**
 
-- 🌱 I’m currently learning **AI and Performance**
-
-- 👯 I’m building [Kube-OVN](https://github.com/kubeovn/kube-ovn) and [Malacca](https://github.com/oilbeater/malacca)
+- 👯 I’m building [Kube-OVN](https://github.com/kubeovn/kube-ovn).
 
 - 📝 I regularly write articles on [https://oilbeater.com](https://oilbeater.com)
 
