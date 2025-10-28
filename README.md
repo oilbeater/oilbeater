@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#281](undefined) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
-2. 💪 Opened PR [#351](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
-3. 💪 Opened PR [#350](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
-4. 🔒 Closed issue [#5815](https://github.com/kubeovn/kube-ovn/issues/5815) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-5. 🗣 Commented on [#5815](https://github.com/kubeovn/kube-ovn/issues/5815#issuecomment-3434827816) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+1. 🗣 Commented on [#5490](https://github.com/kubeovn/kube-ovn/issues/5490#issuecomment-3454301553) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+2. 💪 Opened PR [#281](undefined) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
+3. 💪 Opened PR [#351](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
+4. 💪 Opened PR [#350](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
+5. 🔒 Closed issue [#5815](https://github.com/kubeovn/kube-ovn/issues/5815) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
