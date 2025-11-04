@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5848](https://github.com/kubeovn/kube-ovn/issues/5848#issuecomment-3479843258) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2.  Unlabeled issue [#5470](https://github.com/kubeovn/kube-ovn/issues/5470) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3.  Labeled issue [#5650](https://github.com/kubeovn/kube-ovn/issues/5650) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-4.  Unlabeled issue [#5650](https://github.com/kubeovn/kube-ovn/issues/5650) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-5. 💪 Opened PR [#354](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
+1.  Labeled issue [#5846](https://github.com/kubeovn/kube-ovn/issues/5846) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+2. 🗣 Commented on [#5846](https://github.com/kubeovn/kube-ovn/issues/5846#issuecomment-3483525293) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+3. 🗣 Commented on [#8844](https://github.com/harvester/harvester/issues/8844#issuecomment-3483469541) in [harvester/harvester](https://github.com/harvester/harvester)
+4. ❌ Closed PR [#5852](undefined) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+5. 🗣 Commented on [#5848](https://github.com/kubeovn/kube-ovn/issues/5848#issuecomment-3479843258) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
