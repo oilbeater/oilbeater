@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#310](undefined) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
-2. 💪 Opened PR [#309](undefined) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
-3. 🔓 Reopened issue [#5523](https://github.com/kubeovn/kube-ovn/issues/5523) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-4. 🔒 Closed issue [#5861](https://github.com/kubeovn/kube-ovn/issues/5861) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-5. 💪 Opened PR [#358](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
+1. 🗣 Commented on [#5760](https://github.com/kubeovn/kube-ovn/pull/5760#issuecomment-3497665624) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+2. 🔒 Closed issue [#5752](https://github.com/kubeovn/kube-ovn/issues/5752) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+3. 💪 Opened PR [#310](undefined) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
+4. 💪 Opened PR [#309](undefined) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
+5. 🔓 Reopened issue [#5523](https://github.com/kubeovn/kube-ovn/issues/5523) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
