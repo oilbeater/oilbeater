@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5848](https://github.com/kubeovn/kube-ovn/issues/5848#issuecomment-3587709053) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2.  Assigned issue [#5955](https://github.com/kubeovn/kube-ovn/issues/5955) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. 💪 Opened PR [#364](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
-4. 💪 Opened PR [#5946](undefined) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-5. ❌ Reopened PR [#5717](undefined) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+1. 💪 Opened PR [#365](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
+2. 🗣 Commented on [#5848](https://github.com/kubeovn/kube-ovn/issues/5848#issuecomment-3587709053) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+3.  Assigned issue [#5955](https://github.com/kubeovn/kube-ovn/issues/5955) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+4. 💪 Opened PR [#364](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
+5. 💪 Opened PR [#5946](undefined) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
