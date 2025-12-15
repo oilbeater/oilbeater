@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6042](https://github.com/kubeovn/kube-ovn/issues/6042) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2.  Labeled issue [#62](https://github.com/oilbeater/oilbeater.github.com/issues/62) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
+1. 💪 Opened PR [#6056](undefined) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+2. 🔒 Closed issue [#6042](https://github.com/kubeovn/kube-ovn/issues/6042) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
 3.  Labeled issue [#62](https://github.com/oilbeater/oilbeater.github.com/issues/62) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
-4. ❗ Opened issue [#62](https://github.com/oilbeater/oilbeater.github.com/issues/62) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
-5. ❌ Merged PR [#369](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
+4.  Labeled issue [#62](https://github.com/oilbeater/oilbeater.github.com/issues/62) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
+5. ❗ Opened issue [#62](https://github.com/oilbeater/oilbeater.github.com/issues/62) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
