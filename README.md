@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#422](undefined) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
-2. 🗣 Commented on [#6057](https://github.com/kubeovn/kube-ovn/pull/6057#issuecomment-3655947050) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. 💪 Opened PR [#6056](undefined) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-4. 🔒 Closed issue [#6042](https://github.com/kubeovn/kube-ovn/issues/6042) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-5.  Labeled issue [#62](https://github.com/oilbeater/oilbeater.github.com/issues/62) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
+1. ❌ Merged PR [#422](undefined) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
+2. 💪 Opened PR [#422](undefined) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
+3. 🗣 Commented on [#6057](https://github.com/kubeovn/kube-ovn/pull/6057#issuecomment-3655947050) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+4. 💪 Opened PR [#6056](undefined) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+5. 🔒 Closed issue [#6042](https://github.com/kubeovn/kube-ovn/issues/6042) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
