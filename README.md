@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5995](https://github.com/kubeovn/kube-ovn/issues/5995) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2. ❌ Merged PR [#373](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
-3. 💪 Opened PR [#373](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
-4. ❌ Merged PR [#372](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
-5. 💪 Opened PR [#372](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
+1. ❌ Closed PR [#6056](undefined) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+2. 🔒 Closed issue [#5995](https://github.com/kubeovn/kube-ovn/issues/5995) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+3. ❌ Merged PR [#373](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
+4. 💪 Opened PR [#373](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
+5. ❌ Merged PR [#372](undefined) in [kubeovn/docs](https://github.com/kubeovn/docs)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
