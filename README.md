@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6224](https://github.com/kubeovn/kube-ovn/pull/6224#issuecomment-3815048589) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2. 💪 Opened PR [#6224](https://github.com/kubeovn/kube-ovn/pull/6224) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. ℹ️ Labeled issue [#66](https://github.com/oilbeater/oilbeater.github.com/issues/66) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
-4. ℹ️ Labeled issue [#66](https://github.com/oilbeater/oilbeater.github.com/issues/66) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
-5. ❗ Opened issue [#66](https://github.com/oilbeater/oilbeater.github.com/issues/66) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
+1. 🗣 Commented on [#17732](https://github.com/prometheus/prometheus/pull/17732#issuecomment-3815816904) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+2. ❌ Closed PR [#17732](https://github.com/prometheus/prometheus/pull/17732) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+3. 🗣 Commented on [#6224](https://github.com/kubeovn/kube-ovn/pull/6224#issuecomment-3815048589) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+4. 💪 Opened PR [#6224](https://github.com/kubeovn/kube-ovn/pull/6224) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+5. ℹ️ Labeled issue [#66](https://github.com/oilbeater/oilbeater.github.com/issues/66) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
