@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6634](https://github.com/kubeovn/kube-ovn/issues/6634#issuecomment-4259421244) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2. 💪 Opened PR [#172](https://github.com/bubbuild/bub/pull/172) in [bubbuild/bub](https://github.com/bubbuild/bub)
-3. 🎉 Merged PR [#171](https://github.com/bubbuild/bub/pull/171) in [bubbuild/bub](https://github.com/bubbuild/bub)
-4. 💪 Opened PR [#171](https://github.com/bubbuild/bub/pull/171) in [bubbuild/bub](https://github.com/bubbuild/bub)
-5. 🎉 Merged PR [#25](https://github.com/bubbuild/bub-contrib/pull/25) in [bubbuild/bub-contrib](https://github.com/bubbuild/bub-contrib)
+1. 🎉 Merged PR [#172](https://github.com/bubbuild/bub/pull/172) in [bubbuild/bub](https://github.com/bubbuild/bub)
+2. 🗣 Commented on [#6634](https://github.com/kubeovn/kube-ovn/issues/6634#issuecomment-4259421244) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+3. 💪 Opened PR [#172](https://github.com/bubbuild/bub/pull/172) in [bubbuild/bub](https://github.com/bubbuild/bub)
+4. 🎉 Merged PR [#171](https://github.com/bubbuild/bub/pull/171) in [bubbuild/bub](https://github.com/bubbuild/bub)
+5. 💪 Opened PR [#171](https://github.com/bubbuild/bub/pull/171) in [bubbuild/bub](https://github.com/bubbuild/bub)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
