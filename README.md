@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#673](https://github.com/alauda/acp-docs/pull/673) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
-2. 🎉 Merged PR [#173](https://github.com/bubbuild/bub/pull/173) in [bubbuild/bub](https://github.com/bubbuild/bub)
-3. 💪 Opened PR [#173](https://github.com/bubbuild/bub/pull/173) in [bubbuild/bub](https://github.com/bubbuild/bub)
-4. 🎉 Merged PR [#172](https://github.com/bubbuild/bub/pull/172) in [bubbuild/bub](https://github.com/bubbuild/bub)
-5. 🗣 Commented on [#6634](https://github.com/kubeovn/kube-ovn/issues/6634#issuecomment-4259421244) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+1. 🎉 Merged PR [#673](https://github.com/alauda/acp-docs/pull/673) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
+2. 💪 Opened PR [#673](https://github.com/alauda/acp-docs/pull/673) in [alauda/acp-docs](https://github.com/alauda/acp-docs)
+3. 🎉 Merged PR [#173](https://github.com/bubbuild/bub/pull/173) in [bubbuild/bub](https://github.com/bubbuild/bub)
+4. 💪 Opened PR [#173](https://github.com/bubbuild/bub/pull/173) in [bubbuild/bub](https://github.com/bubbuild/bub)
+5. 🎉 Merged PR [#172](https://github.com/bubbuild/bub/pull/172) in [bubbuild/bub](https://github.com/bubbuild/bub)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
