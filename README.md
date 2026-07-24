@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oilbeater&label=Profile%20views&color=0e75b6&style=flat" alt="oilbeater" /> </p>
 
-- 🔭 I’m currently working at **Alauda in Beijing**
-
 - 👯 I’m building [Kube-OVN](https://github.com/kubeovn/kube-ovn).
 
 - 📝 I regularly write articles on [https://oilbeater.com](https://oilbeater.com)
