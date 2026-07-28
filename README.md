@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7084](https://github.com/kubeovn/kube-ovn/pull/7084) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-2. 💪 Opened PR [#7084](https://github.com/kubeovn/kube-ovn/pull/7084) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
-3. 🎉 Merged PR [#2](https://github.com/kubeovn/.project/pull/2) in [kubeovn/.project](https://github.com/kubeovn/.project)
-4. 🔒 Closed issue [#1](https://github.com/kubeovn/.project/issues/1) in [kubeovn/.project](https://github.com/kubeovn/.project)
-5. 💪 Opened PR [#2](https://github.com/kubeovn/.project/pull/2) in [kubeovn/.project](https://github.com/kubeovn/.project)
+1. ℹ️ Labeled issue [#72](https://github.com/oilbeater/oilbeater.github.com/issues/72) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
+2. ℹ️ Labeled issue [#72](https://github.com/oilbeater/oilbeater.github.com/issues/72) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
+3. ❗ Opened issue [#72](https://github.com/oilbeater/oilbeater.github.com/issues/72) in [oilbeater/oilbeater.github.com](https://github.com/oilbeater/oilbeater.github.com)
+4. 🎉 Merged PR [#7084](https://github.com/kubeovn/kube-ovn/pull/7084) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
+5. 💪 Opened PR [#7084](https://github.com/kubeovn/kube-ovn/pull/7084) in [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
